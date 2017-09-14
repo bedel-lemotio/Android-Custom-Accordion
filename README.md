@@ -9,6 +9,8 @@ There are 2 files. XML file for layout and Java code for Activity.
 You don't need to edit Java code. It will handle one ore more accordions as you create them useing XML layout file.
 I have added XML file with 3 accordion elements. You can copy following code and paste it after last accordion element in parent LinerLayout. You need only change Accordion header and text.
 
+```
+
 <View <!-- Divider line between accordion elements, no need for first one -->
     android:layout_width="match_parent"
     android:layout_height="1dp"
@@ -43,3 +45,5 @@ I have added XML file with 3 accordion elements. You can copy following code and
     android:padding="10dp"
     android:layout_width="match_parent"
     android:layout_height="wrap_content" />
+    
+ ```
