@@ -17,7 +17,7 @@ I have added XML file with 3 accordion elements. You can copy following code and
     android:background="#ccc"/>
 
 <LinearLayout
-    android:onClick="toggleAccordion" <!-- toggleAccordion method will be invoked whihin Activity Java code -->
+    android:onClick="toggleAccordion" <!-- method will be invoked whihin Activity Java code -->
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
