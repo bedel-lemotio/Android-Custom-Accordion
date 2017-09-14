@@ -1,7 +1,7 @@
 # Android Custom Accordion
-Custom accordion builder for android developers
+Custom accordion for android developers
 
-Android has not built-in accordion view, so that you can use this approach to create custom accordion with your demands.
+Android has no built-in accordion view, so that you can use this approach to easly create custom accordions.
 
 # How to use?
 
