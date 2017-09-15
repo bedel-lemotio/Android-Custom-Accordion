@@ -7,7 +7,7 @@ Android has no built-in accordion view, so that you can use this approach to eas
 
 There are 2 files. Java code for Activity and XML file for layout.
 You don't need to edit Java code. It will handle one ore more accordions as you create them useing XML layout file.
-I have added XML file with 3 accordion elements. You must copy following code and paste it after last accordion element in parent LinerLayout You need only change Accordion header and text. Icon files must be placed in drawable folder.
+I have added XML file with 3 accordion elements. You must copy following code and paste it after last accordion element in parent LinerLayout. You need only change Accordion header and text. Icon files must be placed in drawable folder.
 
 ```
 
